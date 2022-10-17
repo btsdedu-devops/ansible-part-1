@@ -1,0 +1,9 @@
+---
+all:
+  children:
+    local:
+    unknown:
+
+local:
+  hosts:
+    localhost:

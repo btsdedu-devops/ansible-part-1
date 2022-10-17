@@ -1,0 +1,4 @@
+---
+package_state: "present"
+webservers_packages:
+ - "telnet-0.17-76"

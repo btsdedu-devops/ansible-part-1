@@ -1,0 +1,4 @@
+Host localhost
+  User almalinux
+  Port 22
+  IdentityFile /home/almalinux/.ssh/ansible-key
